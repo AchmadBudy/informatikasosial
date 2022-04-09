@@ -15,7 +15,7 @@ Untuk menjalankan BeautifulSoup :
 
 -
 - Masuk ke directorynya
-- Tekan "py ubharab.py"
+- Tekan "py ubahrab.py"
 
 Pastikan sudah menginstall package
 
