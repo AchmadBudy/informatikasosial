@@ -17,7 +17,6 @@ for ab in a:
 
 b = soup.select('div.panel-body > ul')
 
-z = b[0].select('ul > li')
 
 for bc in b:
     temp = []
