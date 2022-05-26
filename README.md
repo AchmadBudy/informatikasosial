@@ -20,5 +20,5 @@ Untuk menjalankan BeautifulSoup :
 Pastikan sudah menginstall package
 
 -
-- BeautifulSoup4
-- Scrapy
+- pip install beautifulsoup4
+- pip install scrapy
